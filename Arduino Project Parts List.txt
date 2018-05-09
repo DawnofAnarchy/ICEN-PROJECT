@@ -1,0 +1,12 @@
+Sadly Fritzing.org wasnt working properly for me So here is my parts list
+Also attached is a link to my tinker cad version of this working project
+https://www.tinkercad.com/things/hDAGQLeZQiU-incredible-inari/editel?tenant=circuits?sharecode=ZKWzTV0o-KqMZVFNFnUko0xpv4CBX3RaFbNn9H81nNI=
+Parts List:
+1 Piezo Buzzer
+1 Arduino Uno
+1 Breadboard large
+3 Push Buttons
+3 10k ohm Resistors
+5 330 Ohm Resistors
+5 LEDs Multiple colors
+Atleast 17 Wires
